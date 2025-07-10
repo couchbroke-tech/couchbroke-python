@@ -1,6 +1,3 @@
-# couchbroke-tech
-# Simple balance check with user input
-
 balance = float(input("Enter your account balance: "))
 
 if balance < 0:
